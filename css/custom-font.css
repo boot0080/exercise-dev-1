@@ -60,7 +60,7 @@
 /* Buttons and page styles - */
 
 body {
-  background-color: rgb(255, 154, 154);
+  background-color: #00c6a7;
   color:#fff;
   margin:0 auto;
   font: 1em 'Montserrat',sans-serif;
@@ -133,9 +133,9 @@ a {
 }
 
 .btn span.title {
-  -webkit-box-shadow:0 3px 0 0 #00ae94;
-  box-shadow:0 3px 0 0 #00ae94;
-  background-color:#00cdae;
+  -webkit-box-shadow:0 3px 0 0 #f39c12;
+  box-shadow:0 3px 0 0 #f39c12;
+  background-color:#fcb74b;
 }
 
 .btn span.arrow-left,.btn span.arrow-right {

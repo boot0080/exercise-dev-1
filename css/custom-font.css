@@ -55,3 +55,27 @@
 .icon-mail:before { content: '\e802'; } /* '' */
 .icon-heart-empty:before { content: '\e805'; } /* '' */
 .icon-pencil:before { content: '\e806'; } /* '' */
+
+
+/* Buttons and page styles - */
+
+body {
+  background-color: rgb(255, 154, 154);
+  color:#fff;
+  margin:0 auto;
+  font: 1em 'Montserrat',sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  letter-spacing: .03em;
+  font-size: 30px;
+  margin: 40px 0;
+}
+
+.container {
+  padding-top:20px;
+  text-align:center;
+}
+

@@ -96,22 +96,25 @@ a {
   border-radius:6px;
   -moz-border-radius:6px;
   -webkit-border-radius:6px;
-  line-height:30px;font-size:16px;
+  line-height:30px;
+  font-size:16px;
 }
 
 .btn span.icon,.btn span.title {
   display:block;
   position:relative;
-  line-height:50px;padding:0 30px;
+  line-height:50px;padding:0 40px;
   border-radius:6px;
   -moz-border-radius:6px;
   -webkit-border-radius:6px;
+  width: 80px;
 }
 
 .btn span.left {
   float:left;
   border-radius:6px 0 0 6px;
   -moz-border-radius:6px 0 0 6px;-webkit-border-radius:6px 0 0 6px;
+  width: 27px;
 }
 
 .btn span.right {
@@ -122,7 +125,7 @@ a {
 }
 
 .btn span.icon {
-  font-size:23px;
+  font-size: 27px;
   background-color:#00967f;
   -webkit-box-shadow:0 3px 0 0 #007261;
   box-shadow:0 3px 0 0 #007261;
